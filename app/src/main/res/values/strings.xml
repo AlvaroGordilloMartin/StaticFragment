@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StaticFragments</string>
+    <string name="aboutus">
+        <![CDATA[
+        <h1>Static Fragment</h1>
+        <h2>Ejercicio de clase</h2>
+        <p>Este ejerccio muestra un sencillo ejemplo de cómo crear un <u>fragment</u>.</p>
+        <p>Todos los <em>DERECHOS</em> están reservados para  <b>Lourdes Rodríguez y sus alumnos</b>.</p>
+        <p>Estos son los alumnos:
+        <ul>
+        <li>Sergio</li>
+        <li>Damián</li>
+        <li>Mario</li>
+        <li>Raúl</li>
+        <li>Adrián</li>
+        </ul>
+        ]]>
+</string>"
+</resources>
